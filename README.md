@@ -1,72 +1,84 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://pwa-weather-7a06c.web.app/">
+    <img src="https://i.ibb.co/QFNZd60/Screenshot-from-2023-04-04-12-36-59.png" alt="Project Name">
+  </a>
+  <h3 align="center">PWA Weather App With React</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p align="center">
+  PWA Weather App With React  <br>
+    <br>
+    </p>
+</p>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
 
-### `npm start`
+## Table of contents
+- [About the Website](#about-the-website)
+- [Technical](#technical)
+- [To Do List](#to-do-list)
+- [Licence](#license)
+- [Versions](#versions)
+- [Contact Information](#contact-information)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### About the website
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is Progressive Weather App. This app build by React.
 
-### `npm run build`
+#### Hosted?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Yes! This template is hosted on live.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Link One : https://pwa-weather-7a06c.web.app/  <br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Technical
+#### Technology Used
+This project uses:
+  - Html
+  - Css
+  - Javascript
+  - React
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### Running the project
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You can:
+    a. clone the project and compile it yourself (Most up to date)
+    
+    
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![App Screenshot](https://i.ibb.co/Mg9LN5f/Screenshot-from-2023-04-04-12-38-18.png)
+![App Screenshot](https://i.ibb.co/vkc5zKk/Screenshot-from-2023-04-04-12-37-34.png)
+![App Screenshot](https://i.ibb.co/QFNZd60/Screenshot-from-2023-04-04-12-36-59.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### CONTRIBUTING
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-### Code Splitting
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [@MRJAHID](https://www.github.com/mrjahid)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Versions
+* Version 1.0  
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Contact Information
 
-### Deployment
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/mrjahid) to report them.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<hr>
 
-### `npm run build` fails to minify
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Progressive-Web-Weather-App-with-React
-# Progressive-Web-Weather-App-with-React
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/mrjahid)
+
